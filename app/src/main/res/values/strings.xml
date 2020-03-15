@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">cryptobag</string>
+    <string name="launch_detail_activity">LAUNCH DETAIL ACTIVITY</string>
+    <string name="lauch_detail_activity">lauch detail activity</string>
+</resources>
